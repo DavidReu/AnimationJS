@@ -1,9 +1,18 @@
 .top{
     text-align: center;
     background: url(./images/fondtop.jpg) center; 
-    height: 500px;
+    height: 800px;
+    width: 100%;
 }
 
 h1 {
-    color: blueviolet;
+    color: white;
+    position: relative;
+    top: 150px;
 }
+
+/* .text{
+    background-color: teal;
+    height: 200px;
+    width: 200px;
+} */
