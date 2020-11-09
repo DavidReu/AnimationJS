@@ -1,0 +1,9 @@
+.top{
+    text-align: center;
+    background: url(./images/fondtop.jpg) center; 
+    height: 500px;
+}
+
+h1 {
+    color: blueviolet;
+}
